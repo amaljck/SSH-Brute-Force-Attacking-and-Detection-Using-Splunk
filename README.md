@@ -88,14 +88,6 @@ Displays the total number of failed SSH login attempts.
 
 Identifies the most active attacking hosts.
 
-### ⏱️ Attack Timeline
-
-Visualizes attack intensity over time.
-
-### 🚨 Security Alerts
-
-Shows brute-force detection events.
-
 ---
 
 ## ⚔️ Attack Simulation
