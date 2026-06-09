@@ -97,7 +97,7 @@ A controlled SSH brute-force attack is launched from Kali Linux using Hydra.
 Example:
 
 ```bash
-hydra -l test -P rockyou.txt ssh://TARGET_IP
+hydra -l test -P lists.txt ssh://TARGET_IP
 ```
 
 The generated authentication failures are then detected and analyzed by Splunk.
