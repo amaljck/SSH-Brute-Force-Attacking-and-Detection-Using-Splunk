@@ -114,10 +114,23 @@ The generated authentication failures are then detected and analyzed by Splunk.
 
 ## 📷 Screenshots
 
-Add screenshots here:
+* SIEM SETTING UP:
+<img width="1917" height="956" alt="recieving config added port 9997" src="https://github.com/user-attachments/assets/ad0e6019-660d-431b-b10d-9957ce8daca6" />
+
+
+<img width="1362" height="718" alt="listed forward-servers" src="https://github.com/user-attachments/assets/a3285e9b-8b84-441a-8d2d-1295414ea5bf" />
+
+
+<img width="1360" height="716" alt="Monitor files" src="https://github.com/user-attachments/assets/06964fbd-f6c6-4c16-9f9c-77e59d53e277" />
+
+
+
 
 * Kali Linux attack simulation
 <img width="1364" height="722" alt="attack done on kali found pass" src="https://github.com/user-attachments/assets/7d219709-e768-4da2-a9f2-4fd4f7c9a4f8" />
+
+
+
 * Security dashboard
 <img width="1907" height="947" alt="dashboard after attack" src="https://github.com/user-attachments/assets/52beeab1-2984-4930-ac92-dc533115b636" />
 
